@@ -1,0 +1,25 @@
+{
+  "title": "Halo Lore",
+  "questions": [
+    {
+      "prompt": "Where are the forerunners?",
+      "options": [
+        "Humans",
+        "Some ugly fish face aliens",
+        "The Sangheili",
+        "The Shan Sy Um"
+      ],
+      "correct_idx": 0
+    },
+    {
+      "prompt": "What are the rings?",
+      "options": [
+        "A weapon to wipe out the food supply for the flood, everything.",
+        "A holy icon and key to the great journey",
+        "A safe haven to protect humanity from the flood",
+        "A monument to the gods"
+      ],
+      "correct_idx": 0
+    }
+  ]
+}

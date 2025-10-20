@@ -1,0 +1,28 @@
+{
+  "quiz_id": "1aed5b1e",
+  "title": "Sample Quiz",
+  "questions": [
+    {
+      "id": "b65d8791",
+      "prompt": "What is 2+2?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_idx": 1
+    },
+    {
+      "id": "016558a3",
+      "prompt": "What color is the sky?",
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct_idx": 1
+    }
+  ]
+}
